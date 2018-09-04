@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: R_A_V_R_
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: orica, , cel.main
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+MIDlet-Icon: cel/orica.png
+MIDlet-Name: orica
+MIDlet-Info-URL: http://tecomparto.16mb.com/email.html
+MicroEdition-Profile: MIDP-2.0
+Main-Class: pc.main
+SplashScreen-Image: pc/splash.gif
+

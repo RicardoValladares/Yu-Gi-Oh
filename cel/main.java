@@ -339,9 +339,9 @@ class orica{
 				else if(tipo_de_carta==2){
 					Image fondo = Image.createImage("/cel/carta2.png");
 					grafico.drawImage(fondo, 0, 0);
-                	}
-                	grafico.drawImage(monstruo, 4, 4, 192, 205);
-                	/*retornamos el bufer de la imagen de la carta generada*/
+                		}
+                		grafico.drawImage(monstruo, 4, 4, 192, 205);
+                		/*retornamos el bufer de la imagen de la carta generada*/
 				return tmp;
 			}
 			/*generamos carta monstruo*/

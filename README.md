@@ -4,5 +4,7 @@ Para crear cartas de yu gi oh al estilo orica del anime... Hecho JSE para PC y J
 Captura de Pantalla de Celular y PC:
 
 ![Captura de Pantalla de Celular](https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-CEL.png) 
+
+
 ![Captura de Pantalla de PC](https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-PC.png)
 

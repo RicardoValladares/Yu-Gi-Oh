@@ -8,3 +8,4 @@ Captura de Pantalla de Celular y PC:
 
 ![Captura de Pantalla de PC](https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-PC.png)
 
+

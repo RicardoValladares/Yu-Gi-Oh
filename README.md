@@ -5,4 +5,6 @@ Captura de Pantalla de Celular y PC:
 
 <img align="left" src="https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-PC.png">
 
+<img align="right" src="https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-CEL.png">
+
 ![Captura de Pantalla de Celular](https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-CEL.png) 

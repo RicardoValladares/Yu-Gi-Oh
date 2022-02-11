@@ -3,18 +3,11 @@ Para crear cartas de yu gi oh al estilo orica del anime... Hecho JSE para PC y J
 
 Captura de Pantalla de Celular y PC:
 
-<p align="center">
-  <img align="left" width="340" height="310" src="https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-PC.png">
-
-<img align="right" width="468" height="310" src="https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-CEL.png">
-</p>
-
 
 
 
 <p align="center">
   <img alt="Light" src="https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-PC.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://raw.githubusercontent.com/RicardoValladares/Yu-Gi-Oh/master/ScreenShoot-CEL.png" width="45%">
 </p>
 

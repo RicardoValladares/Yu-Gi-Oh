@@ -1,4 +1,4 @@
-Construido para crear cartas de yu gi oh al estilo orica del anime... Hecho en Java Standar Edition(JSE) para PC y en Java Standar 2 Micro Edition (J2ME) para CEL, la interfaz gráfica de celular fue hecha gracias a la librería extraída de:
+Construido para crear cartas de yu gi oh al estilo orica del anime... Hecho en Java Standar Edition(JSE) para PC y en Java 2 Micro Edition (J2ME) para CEL, la interfaz gráfica de celular fue hecha gracias a la librería extraída de:
 <hr>
 
 <p align="center">
